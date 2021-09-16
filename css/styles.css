@@ -92,3 +92,12 @@ padding:0 18px;
           border-radius: 100%;
           margin: 20px;
       }
+
+      #press{
+        background-color: #ef8172;
+        text-align: center;
+        padding-bottom: 3%;
+      }
+      .press-logo{
+          width: 15%;
+      }
