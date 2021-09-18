@@ -122,10 +122,37 @@ padding:0 18px;
       
       .pricing-column{
           padding: 3% 2%;
+
           
       }
 
-
+      /* CTA section */
+        #cta{
+            background-color: #ff4c68;
+            padding: 7% 15%;
+            color: #fff;
+            text-align: center;
+        }
+         
+        .cta-column{
+            font-family: "Montserrat";
+            font-size: 3.5rem;
+            line-height: 1.5;
+        }
+     
+     
+     
+     
+      @media (max-width: 1028px) {
+          #title{
+              text-align: center;
+          }
+          .title-image{
+              position: static;
+              transform: rotate(0);
+              width: 60%;
+          }
+      }
 
 
 
