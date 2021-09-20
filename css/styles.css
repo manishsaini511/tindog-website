@@ -28,6 +28,15 @@ h1, h2, h3, h4, h5, h6{
         padding: 7% 15%;
      }
      
+     /* Sections */
+     .colored-section{
+        background-color: #ff4c68;
+        color: #fff;
+     }
+     
+     .white-section{
+        background-color: #fff;
+     }
  /* Navigation Bar*/
 
 .navbar{
@@ -55,8 +64,8 @@ padding:0 18px;
  /* Title Section */
 
    #title{
-    background-color: #ff4c68;
-    color: #fff;
+   
+   
     text-align: left;
    }
 
@@ -74,7 +83,7 @@ padding:0 18px;
 
    /* Features Section */
    #features{
-       background-color: #fff;
+       
        position: relative;
    }
 
@@ -100,7 +109,7 @@ padding:0 18px;
          
           text-align: center;
           background-color: #ef8172;
-          color:#fff ;
+          
       }
 
       
@@ -143,11 +152,7 @@ padding:0 18px;
       }
 
       /* CTA section */
-        #cta{
-            background-color: #ff4c68;
-            color: #fff;
-            
-        }
+       
         
 
         /* Footer Section */
